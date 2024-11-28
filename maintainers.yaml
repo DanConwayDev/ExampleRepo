@@ -1,7 +1,7 @@
 maintainers:
-- npub15qydau2hjma6ngxkl2cyar74wzyjshvl65za5k5rl69264ar2exs5cyejr
+  - npub15qydau2hjma6ngxkl2cyar74wzyjshvl65za5k5rl69264ar2exs5cyejr
+  - npub1yxhlu3swrfhdfx6zvdav3slcwvtsspzwdhnrr0yn2d86hrfl6gps9kdkwz
 relays:
-- wss://relay.damus.io
-- wss://nos.lol
-- wss://relay.nostr.band
-- wss://relay.f7z.io
+  - wss://relay.damus.io
+  - wss://nos.lol
+  - wss://relay.nostr.band
